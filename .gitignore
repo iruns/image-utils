@@ -1,0 +1,13 @@
+# ignore file
+
+node_modules
+package-lock.json
+server/simData/
+**/temp.json
+
+.idea
+build
+
+**.jpg
+**.png
+**.webp
